@@ -33,4 +33,13 @@ The Decision Tree classifier slightly outperformed other models, accurately pred
 Most launch sites are close to the coast, minimizing risks and optimizing launch efficiency.
 The equatorial launch locations provide a natural rotational boost, saving fuel and reducing mission costs.
 ## Conclusion
-The models developed in this project provide SpaceY with a predictive framework for landing success. The analysis shows that coastal and equatorial launch sites optimize mission success. The Decision Tree model, with its strong performance, is a valuable tool for planning and budgeting future launches.
+#### Improved Landing Success Over Time
+Success rates showed a clear upward trend from 2013 to 2020, driven by advancements in SpaceX’s landing technology and reliability
+#### Strategic Launch Site Utilization
+KSC LC-39A had the highest success rate, highlighting its strategic importance. Coastal launch sites near the equator, such as Cape Canaveral, provide safe recovery zones over the ocean and benefit from Earth’s rotation, optimizing launch efficiency
+#### Orbit and Mission Trends
+Orbits like ES-L1, GEO, HEO, and SSO achieved a 100% success rate, showing reliability for specific mission types. Other orbits, like SO, faced greater challenges, impacting mission success variability
+#### Map-Based Insights on Launch Sites
+Interactive map analysis revealed that launch sites are strategically located near coastlines but away from populated areas, minimizing risks and optimizing logistics. Color-coded markers on the map illustrated success and failure rates at each site, allowing a quick visual assessment of site-specific performance over time
+#### Predictive Model Performance
+The Decision Tree classifier was the top-performing model, accurately predicting outcomes and enabling data-driven decisions for future missions.
